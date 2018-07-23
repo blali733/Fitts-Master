@@ -7,3 +7,6 @@
 [submodule "LabGen"]
 	path = LabGen
 	url = git@github.com:blali733/Fitts-ColorGen.git
+[submodule "Common"]
+	path = Common
+	url = git@github.com:blali733/FittsCommon.git
