@@ -1,0 +1,9 @@
+[submodule "Server"]
+	path = Server
+	url = git@github.com:blali733/Fitts-Srv.git
+[submodule "Client"]
+	path = Client
+	url = git@github.com:blali733/Fitts-Cli.git
+[submodule "LabGen"]
+	path = LabGen
+	url = git@github.com:blali733/Fitts-ColorGen.git
