@@ -1,2 +1,2 @@
 # Fitts-Master
-Meta project gathering all sub-projects concernign master thesis project.
+Meta project gathering all sub-projects concerning master thesis project.
